@@ -1,2 +1,3 @@
 # senac_notes
-Projeto realizado na oficina de NodeJS na semana acadêmica do SENAC-PR/Portão
+Projeto realizado em oficina na semana acadêmica do SENAC-PR/Portão.
+As tecnologias principais utilizadas foram NodeJS, Git, Express, MySQL
